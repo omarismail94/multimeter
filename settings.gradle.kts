@@ -28,6 +28,4 @@ dependencyResolutionManagement {
     }
 }
 
-
-include(":lib")
-include(":friendster")
+include(":shared")
